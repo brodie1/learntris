@@ -1,5 +1,5 @@
 # Compiled program
-*.out
+out
 
 # Compiled Object files
 *.slo
